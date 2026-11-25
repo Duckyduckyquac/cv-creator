@@ -1,0 +1,8 @@
+.app-footer{
+    display: flex;
+    flex-direction: column;
+    padding: var(--layout-spacer-size-0);
+    text-align: center;
+
+    border-top: 2px solid var(--color-accent);
+}

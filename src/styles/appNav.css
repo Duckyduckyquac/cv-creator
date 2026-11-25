@@ -1,0 +1,7 @@
+.app-nav {
+    display: flex;
+    flex-direction:row;
+    gap: 1rem;
+
+    margin: var(--layout-spacer-size-1)
+}

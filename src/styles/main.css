@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Debug Utility for Seeing Boxes */
+
+/* *{
+    outline: 2px dotted lightblue;
+} */
+
+:root {
+    --layout-spacer-size-0:0.5rem;
+    --layout-spacer-size-1: 1rem;
+    --layout-spacer-size-2: 1.25rem;
+    --layout-spacer-size-3: 1.5rem;
+    --layout-spacer-size-4: 1.75rem;
+    --layout-spacer-size-5: 2rem;
+
+    --text-size-1: 1rem;
+    --text-size-2: 1.25rem;
+    --text-size-3: 1.5rem;
+    --text-size-4: 1.75rem;
+    --text-size-5: 2rem;
+
+    --width-section: clamp(250px, 90%, 100%);
+
+    --color-main-bg: #f4f6f9;
+    --color-card-bg: #ffffff;
+    --color-border: #d8dee6;
+
+    --color-text-main: #1e242b;
+    --color-text-muted: #57606a;
+    --color-text-on-accent: #ffffff;
+
+    --color-accent: gray;
+    --color-accent-hover: gray;
+    --color-danger: #dc2626;
+
+    --duration-fast-transition: 50ms;
+}

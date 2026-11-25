@@ -1,0 +1,12 @@
+/* sectionInput.css */
+
+.section-input{
+   
+}
+
+.section-input__label {
+    display:flex;
+    flex-direction: column;
+    text-align: left;
+    gap: var(--layout-spacer-size-0);
+}

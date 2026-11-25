@@ -1,0 +1,6 @@
+.submit-and-edit-buttons-group{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    gap: var(--layout-spacer-size-1);
+}

@@ -1,0 +1,7 @@
+.section-text-area__label{
+    display:flex;
+    flex-direction: column;
+    text-align: left;
+    gap: var(--layout-spacer-size-0);
+}
+
