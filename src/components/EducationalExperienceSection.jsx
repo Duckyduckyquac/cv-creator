@@ -1,4 +1,4 @@
-import { NAME_CONSTANTS } from "../constants";
+import { NAME_CONSTANTS } from "../Constants";
 import SectionInput from "./SectionInput";
 import SubmitAndEditButtonsGroup from "./SubmitAndEditButtonsGroup";
 

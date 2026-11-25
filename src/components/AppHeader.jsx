@@ -1,4 +1,4 @@
-import { NAME_CONSTANTS } from "../constants";
+import { NAME_CONSTANTS } from "../Constants";
 import AppNav from "./AppNav";
 
 function AppHeader({ onCurrentPageChange, onResetAll }) {

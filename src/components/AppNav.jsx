@@ -1,4 +1,4 @@
-import { NAME_CONSTANTS } from "../constants";
+import { NAME_CONSTANTS } from "../Constants";
 function AppNav({ buttonType, onCurrentPageChange, onResetAll }) {
     return (
         <nav className="app-nav">

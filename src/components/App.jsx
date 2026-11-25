@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { NAME_CONSTANTS } from "../constants.js";
+import { NAME_CONSTANTS } from "../Constants.js";
 import AppHeader from "./AppHeader";
 import AppFooter from "./AppFooter.jsx";
 import EditPage from "./EditPage.jsx";

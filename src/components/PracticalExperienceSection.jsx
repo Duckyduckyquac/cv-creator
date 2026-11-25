@@ -1,6 +1,6 @@
 import SectionInput from "./SectionInput";
 import SubmitAndEditButtonsGroup from "./SubmitAndEditButtonsGroup";
-import { NAME_CONSTANTS } from "../constants";
+import { NAME_CONSTANTS } from "../Constants";
 import SectionTextArea from "./SectionTextArea";
 
 function PracticalExperienceSection({
